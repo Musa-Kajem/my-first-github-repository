@@ -4,7 +4,14 @@
     margin: 0;
 }
 
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top: 10px solid black;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
 
+}
 
 div{
 
@@ -17,6 +24,7 @@ padding: 30px;
 height: 100%;
 width: 40%;
 margin-left: 10px;
+margin-bottom: 15px;
 text-align: justify;
 
 }
